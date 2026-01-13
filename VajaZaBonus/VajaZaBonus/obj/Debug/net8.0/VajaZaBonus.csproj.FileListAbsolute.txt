@@ -1,0 +1,15 @@
+C:\pro1\VajaZaBonus\VajaZaBonus\bin\Debug\net8.0\VajaZaBonus.exe
+C:\pro1\VajaZaBonus\VajaZaBonus\bin\Debug\net8.0\VajaZaBonus.deps.json
+C:\pro1\VajaZaBonus\VajaZaBonus\bin\Debug\net8.0\VajaZaBonus.runtimeconfig.json
+C:\pro1\VajaZaBonus\VajaZaBonus\bin\Debug\net8.0\VajaZaBonus.dll
+C:\pro1\VajaZaBonus\VajaZaBonus\bin\Debug\net8.0\VajaZaBonus.pdb
+C:\pro1\VajaZaBonus\VajaZaBonus\obj\Debug\net8.0\VajaZaBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro1\VajaZaBonus\VajaZaBonus\obj\Debug\net8.0\VajaZaBonus.AssemblyInfoInputs.cache
+C:\pro1\VajaZaBonus\VajaZaBonus\obj\Debug\net8.0\VajaZaBonus.AssemblyInfo.cs
+C:\pro1\VajaZaBonus\VajaZaBonus\obj\Debug\net8.0\VajaZaBonus.csproj.CoreCompileInputs.cache
+C:\pro1\VajaZaBonus\VajaZaBonus\obj\Debug\net8.0\VajaZaBonus.sourcelink.json
+C:\pro1\VajaZaBonus\VajaZaBonus\obj\Debug\net8.0\VajaZaBonus.dll
+C:\pro1\VajaZaBonus\VajaZaBonus\obj\Debug\net8.0\refint\VajaZaBonus.dll
+C:\pro1\VajaZaBonus\VajaZaBonus\obj\Debug\net8.0\VajaZaBonus.pdb
+C:\pro1\VajaZaBonus\VajaZaBonus\obj\Debug\net8.0\VajaZaBonus.genruntimeconfig.cache
+C:\pro1\VajaZaBonus\VajaZaBonus\obj\Debug\net8.0\ref\VajaZaBonus.dll

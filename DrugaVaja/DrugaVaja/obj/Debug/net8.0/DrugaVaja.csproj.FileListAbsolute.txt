@@ -1,0 +1,15 @@
+C:\pro1\DrugaVaja\DrugaVaja\bin\Debug\net8.0\DrugaVaja.exe
+C:\pro1\DrugaVaja\DrugaVaja\bin\Debug\net8.0\DrugaVaja.deps.json
+C:\pro1\DrugaVaja\DrugaVaja\bin\Debug\net8.0\DrugaVaja.runtimeconfig.json
+C:\pro1\DrugaVaja\DrugaVaja\bin\Debug\net8.0\DrugaVaja.dll
+C:\pro1\DrugaVaja\DrugaVaja\bin\Debug\net8.0\DrugaVaja.pdb
+C:\pro1\DrugaVaja\DrugaVaja\obj\Debug\net8.0\DrugaVaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro1\DrugaVaja\DrugaVaja\obj\Debug\net8.0\DrugaVaja.AssemblyInfoInputs.cache
+C:\pro1\DrugaVaja\DrugaVaja\obj\Debug\net8.0\DrugaVaja.AssemblyInfo.cs
+C:\pro1\DrugaVaja\DrugaVaja\obj\Debug\net8.0\DrugaVaja.csproj.CoreCompileInputs.cache
+C:\pro1\DrugaVaja\DrugaVaja\obj\Debug\net8.0\DrugaVaja.sourcelink.json
+C:\pro1\DrugaVaja\DrugaVaja\obj\Debug\net8.0\DrugaVaja.dll
+C:\pro1\DrugaVaja\DrugaVaja\obj\Debug\net8.0\refint\DrugaVaja.dll
+C:\pro1\DrugaVaja\DrugaVaja\obj\Debug\net8.0\DrugaVaja.pdb
+C:\pro1\DrugaVaja\DrugaVaja\obj\Debug\net8.0\DrugaVaja.genruntimeconfig.cache
+C:\pro1\DrugaVaja\DrugaVaja\obj\Debug\net8.0\ref\DrugaVaja.dll
